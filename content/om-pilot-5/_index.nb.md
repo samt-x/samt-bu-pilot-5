@@ -1,4 +1,5 @@
 ---
+id: 0569a386-0041-48bd-96b2-c1822301ae32
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 title: Om pilot 5
 weight: 10

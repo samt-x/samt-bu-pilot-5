@@ -1,4 +1,5 @@
 ---
+id: 8a9fd146-ddd2-4a89-9821-4a30c5ed6bd2
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 title: Pilot 5 - Id-er i utdanning
 weight: 50

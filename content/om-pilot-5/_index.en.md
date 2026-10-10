@@ -1,4 +1,5 @@
 ---
+id: 0569a386-0041-48bd-96b2-c1822301ae32
 # id: auto-generated – copied values are overwritten automatically on push
 title: "About pilot 5"
 linkTitle: "About pilot 5"
