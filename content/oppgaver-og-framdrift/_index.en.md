@@ -3,6 +3,9 @@ id: e0ca5813-fc5c-4f83-a3fd-691d0a87f624
 title: "Tasks and progress"
 linkTitle: "Tasks and progress"
 weight: 90
+lastmod: 2026-11-02T00:12:41+01:00
+last_editor: Erik Hagen
+
 ---
 
 The tasks of pilot 5 are issues in [samt-bu-pilot-5](https://github.com/samt-x/samt-bu-pilot-5/issues) and on the board [SAMT-BU Pilot 5 – Id-er i utdanning](https://github.com/orgs/samt-x/projects/9) (Project 9). This page shows where the work stands.
