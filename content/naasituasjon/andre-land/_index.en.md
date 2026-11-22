@@ -3,6 +3,8 @@ id: f7b0a85c-b7e6-4840-ad1d-62ad4f467e0d
 title: "Other countries and the EU"
 linkTitle: "Other countries and the EU"
 weight: 30
+lastmod: 2026-11-22T23:53:35+01:00
+last_editor: Erik Hagen
 
 ---
 

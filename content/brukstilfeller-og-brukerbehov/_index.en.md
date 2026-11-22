@@ -3,6 +3,8 @@ id: 7f3f4c9f-d253-4fab-90b6-99a443121a9f
 title: "Use cases and user needs"
 linkTitle: "Use cases and user needs"
 weight: 20
+lastmod: 2026-11-22T23:53:35+01:00
+last_editor: Erik Hagen
 
 ---
 

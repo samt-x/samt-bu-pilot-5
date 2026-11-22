@@ -3,7 +3,7 @@ id: 0569a386-0041-48bd-96b2-c1822301ae32
 # id: auto-generert – kopierte verdier overskrives automatisk ved push
 title: Om pilot 5
 weight: 10
-lastmod: 2026-10-10T14:41:00+02:00
+lastmod: 2026-11-22T23:53:35+01:00
 last_editor: Erik Hagen
 
 ---

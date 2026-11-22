@@ -3,7 +3,7 @@ id: 0569a386-0041-48bd-96b2-c1822301ae32
 # id: auto-generated – copied values are overwritten automatically on push
 title: About pilot 5
 weight: 10
-lastmod: 2026-11-20T02:42:18+01:00
+lastmod: 2026-11-22T23:53:35+01:00
 last_editor: Erik Hagen
 
 ---

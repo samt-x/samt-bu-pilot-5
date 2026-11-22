@@ -3,6 +3,8 @@ id: 2d9970b2-37db-4ed5-8153-02097f36c46e
 title: "In Norway"
 linkTitle: "In Norway"
 weight: 10
+lastmod: 2026-11-22T23:53:35+01:00
+last_editor: Erik Hagen
 
 ---
 

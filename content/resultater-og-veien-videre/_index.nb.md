@@ -3,6 +3,8 @@ id: 95572a4e-02f6-40f1-8f08-db5f1896d8de
 title: "Resultater og veien videre"
 linkTitle: "Resultater og veien videre"
 weight: 90
+lastmod: 2026-11-22T23:53:35+01:00
+last_editor: Erik Hagen
 
 ---
 

@@ -3,6 +3,8 @@ id: 914fd50f-5d11-49bb-852f-a3f77e960e66
 title: "Future requirements"
 linkTitle: "Future requirements"
 weight: 10
+lastmod: 2026-11-22T23:53:35+01:00
+last_editor: Erik Hagen
 
 ---
 
