@@ -1,4 +1,5 @@
 ---
+id: 41785cd1-fa89-4020-99ac-b542b5d8bbf2
 title: "Alternative solutions"
 linkTitle: "Alternative solutions"
 weight: 20

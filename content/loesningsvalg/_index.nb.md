@@ -1,4 +1,5 @@
 ---
+id: c3fb6305-b352-4b04-91e1-3bb7b6448ba2
 title: "Løsningsvalg"
 linkTitle: "Løsningsvalg"
 weight: 50

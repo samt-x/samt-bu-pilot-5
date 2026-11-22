@@ -1,4 +1,5 @@
 ---
+id: 914fd50f-5d11-49bb-852f-a3f77e960e66
 title: "Framtidige krav"
 linkTitle: "Framtidige krav"
 weight: 10

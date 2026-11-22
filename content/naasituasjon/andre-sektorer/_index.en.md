@@ -1,4 +1,5 @@
 ---
+id: ce30f1e0-9d91-47f9-9112-a6abe714c26a
 title: "Other sectors"
 linkTitle: "Other sectors"
 weight: 20

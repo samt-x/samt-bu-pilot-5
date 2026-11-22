@@ -1,4 +1,5 @@
 ---
+id: 2d9970b2-37db-4ed5-8153-02097f36c46e
 title: "I Norge"
 linkTitle: "I Norge"
 weight: 10
