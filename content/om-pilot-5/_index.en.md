@@ -16,7 +16,7 @@ Pilot 5 takes as its starting point two cases that describe the same problem fro
 
 Case 3 is about municipalities that lack a common solution for identifying children and young people who have not yet received a D number or national identity number (fødselsnummer). Today the municipalities create fictitious identity numbers according to their own rules, without coordination across municipalities and sectors. Case 26 extends the problem to the whole educational pathway, and to the many foreign students, pupils and employees who are not in the National Population Register (Folkeregisteret).
 
-Without unique identification, duplicates arise, data cannot be linked across systems and levels, and children and parents may lose access and history when a fictitious number is replaced by an official one. Fictitious numbers also do not allow login with ID-porten. Who is affected and what they need is described under [Use cases and user needs](/en/pilotering/pilot-5/brukstilfeller-og-brukerbehov/).
+Without unique identification, duplicates arise, data cannot be linked across systems and levels, and children and parents may lose access and history when a fictitious number is replaced by an official one. Fictitious numbers also do not allow login with ID-porten.
 
 ## Objective
 

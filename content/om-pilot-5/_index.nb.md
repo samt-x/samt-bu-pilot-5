@@ -16,7 +16,7 @@ Pilot 5 tar utgangspunkt i to caser som beskriver samme problem fra hver sin end
 
 Case 3 handler om kommuner som mangler en felles løsning for å identifisere barn og unge som ennå ikke har fått D-nummer eller fødselsnummer. Kommunene lager i dag fiktive fødselsnumre etter egne regler, uten koordinering på tvers av kommuner og sektorer. Case 26 utvider problemet til hele utdanningsløpet, og til de mange utenlandske studentene, elevene og ansatte som ikke er i Folkeregisteret.
 
-Uten entydig identifikasjon oppstår duplikater, data kan ikke kobles på tvers av systemer og nivåer, og barn og foreldre kan miste tilganger og historikk når et fiktivt nummer erstattes av et offisielt. Fiktive numre gir heller ikke innlogging med ID-porten. Hvem som berøres og hva de trenger, står under [Brukstilfeller og brukerbehov](/pilotering/pilot-5/brukstilfeller-og-brukerbehov/).
+Uten entydig identifikasjon oppstår duplikater, data kan ikke kobles på tvers av systemer og nivåer, og barn og foreldre kan miste tilganger og historikk når et fiktivt nummer erstattes av et offisielt. Fiktive numre gir heller ikke innlogging med ID-porten.
 
 ## Mål
 
